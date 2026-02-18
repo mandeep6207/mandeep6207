@@ -29,16 +29,6 @@
 
 <div align="center">
 
-## 🏆 **Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=mandeep6207&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🛠️ **Tech Arsenal**
 
 ### 🤖 AI / ML & Data Science
@@ -125,7 +115,9 @@
 
 ## 🐍 **Snake Eating My Contributions**
 
-![Snake animation](https://raw.githubusercontent.com/mandeep6207/mandeep6207/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mandeep6207/snk/output/github-snake-dark.svg)
+
+
 
 </div>
 
