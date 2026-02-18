@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🎯 **AI/ML • Data Science • Open Source Enthusiast**
+### 🎯 **AI/ML • Data Science • Open Source Contributor**
 
 **Technical Lead @ GDG RCET** | **State Lead @ OSCG 2026** | **Ex-Trainee IIIT-NR**
 
