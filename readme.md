@@ -29,42 +29,18 @@
 
 <div align="center">
 
-## 🛠️ **Tech Arsenal**
-
+## 🛠️ **Tech Arsenal** 
 ### 🤖 AI / ML & Data Science
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Applied-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-Basics-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Learning-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-Learning-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-Exploring-FF1493?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/EDA-Data_Analytics-blue?style=for-the-badge"/>
-</p>
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-Applied-102230?style=for-the-badge" /> <img src="https://img.shields.io/badge/Deep_Learning-Basics-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/NLP-Learning-FF6F61?style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer_Vision-Learning-5C3EE8?style=for-the-badge" /> <img src="https://img.shields.io/badge/Generative_AI-Exploring-FF1493?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBI-Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-Data_Analytics-blue?style=for-the-badge" /> </p> 
 
-### ⚙️ AI Workflow & Automation
-<p>
-<img src="https://img.shields.io/badge/AI_Agents-Learning-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-Automation(Learning)-FF6D5A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API_Integration-AI_Apps-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-Experimentation-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Colab-Cloud_ML-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
+### ⚙️ AI Workflow, Automation & Tools
+<p> <img src="https://img.shields.io/badge/AI%20Agents-Learning%20%26%20Building-00D9FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/n8n-Workflow%20Automation%20(Learning)-FF6D5A?style=for-the-badge"/> <img src="https://img.shields.io/badge/API%20Integration-AI%20Apps-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-Experimentation-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-Cloud%20ML-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Claude%20AI-GenAI%20Tools-6B46C1?style=for-the-badge"/> </p> 
 
-### 💾 Databases & Tools
-<p>
-<img src="https://img.shields.io/badge/MySQL-Database-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github"/>
-</p>
+### 💾 Data Engineering & Backend Support 
+<p> <img src="https://img.shields.io/badge/MySQL-Data%20Storage-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-NoSQL%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-Data%20Queries-4479A1?style=for-the-badge"/> </p> 
 
-</div>
+### 💻 Development & Ecosystem 
+<p> <img src="https://img.shields.io/badge/JavaScript-Web%20Integration-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Web%20UI-E34F26?style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-Design%20Collab-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-Learning-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Blockchain-Basics-121D33?style=for-the-badge"/> </p>
 
 ---
 
