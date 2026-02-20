@@ -154,7 +154,7 @@ SQL, Excel, Power BI Certifications
 
 <div align="center">
 
-### 💡 *"Always learning, building, and contributing to AI innovation"*
+### 💡 *"Always learning, building, and contributing to AI-Innovation"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
