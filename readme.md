@@ -91,7 +91,7 @@
 
 ## 🐍 **Snake Eating My Contributions**
 
-![Snake animation](https://raw.githubusercontent.com/mandeep6207/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mandeep6207/snk/output/github-snake-dark.svg)
 
 
 
