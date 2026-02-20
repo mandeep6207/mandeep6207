@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Mandeep+Kumar+;B.Tech+Data+Science+Student;Open+Source+Leader+Analytics" />
 </p>
