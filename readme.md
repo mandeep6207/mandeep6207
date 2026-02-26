@@ -94,7 +94,6 @@
 ![Snake animation](https://raw.githubusercontent.com/mandeep6207/snk/output/github-snake-dark.svg)
 
 
-
 </div>
 
 ---
