@@ -110,7 +110,7 @@
 
 ### 🎓 Education
 B.Tech CSE (Data Science)  
-Rungta College of Engineering & Technology  
+Rungta College of Engineering & Technology Bhilai 
 Diploma in Computer Applications  
 
 </td>
