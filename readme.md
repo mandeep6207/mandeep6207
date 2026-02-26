@@ -5,6 +5,7 @@
 </p>
 
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%" />
 
 </div>
