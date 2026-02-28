@@ -39,7 +39,7 @@
 ### 💾 Data Engineering & Backend Support 
 <p> <img src="https://img.shields.io/badge/MySQL-Data%20Storage-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-NoSQL%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-Data%20Queries-4479A1?style=for-the-badge"/> </p> 
 
-### 💻 Development & Ecosystem 
+### 💻 Development & Ecosystems 
 <p> <img src="https://img.shields.io/badge/JavaScript-Web%20Integration-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Web%20UI-E34F26?style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-Design%20Collab-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-Learning-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Blockchain-Basics-121D33?style=for-the-badge"/> </p>
 
 ---
