@@ -15,7 +15,7 @@
 
 ### 🎯 **Data Science • AI/ML • Open Source Contributor**
 
-**Tech Lead @GDG & IC at RCET** | **State Lead @OSCG 2026** | **Ex-Trainee @IIIT-NR**
+**Tech Lead @GDG ON CAMPUS & IC at RCET** | **State Lead @OSCG 2026** | **Ex-Trainee @IIIT-NR**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandeep-kumar-56a891276)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandeep6207)
