@@ -108,7 +108,7 @@
 
 ### 🎓 Education
 B.Tech CSE (Data Science)  
-Rungta College of Engineering & Technology Bhilai 
+Rungta College of Engineering & Technology, Bhilai 
 
 Diploma in Computer Applications  
 Sinha Institute, Ranchi
