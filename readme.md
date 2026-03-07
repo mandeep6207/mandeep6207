@@ -89,7 +89,7 @@
 
 <div align="center">
 
-## 🐍 **Snake is Eating My Contributions**
+## 🐍 **Snake is Eating My Contribution's**
 
 ![Snake animation](https://raw.githubusercontent.com/mandeep6207/snk/output/github-snake-dark.svg)
 
