@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🎯 **Data Science • AI/ML • Open Source Contributor**
+### 🎯 ** x Hackathon Winner • Data Science • AI/ML • Open Source Contributor**
 
 **Tech Lead @GDG ON CAMPUS & IC at RCET** | **State Lead @OSCG 2026** | **Ex-Trainee @IIIT-NR**
 
