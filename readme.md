@@ -47,48 +47,21 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 **GitHub Battle Stats**
 
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandeep6207&theme=github-dark&hide_border=true&background=000000" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=mandeep6207&theme=github-dark-blue&hide_border=true&background=000000" width="100%"/>
 </td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandeep6207&theme=github_dark" width="100%"/>
-</td>
-</tr>
-</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandeep6207&theme=github_dark" width="100%"/>
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mandeep6207&theme=github_dark" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mandeep6207&theme=github_dark" width="100%"/>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandeep6207&theme=github_dark&utcOffset=5.5" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mandeep6207&theme=github-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true&area=true" width="100%"/>
-</td>
-</tr>
-</table>
 
-</div>
 
----
 
-<div align="center">
 
 ## 🐍 **Snake is Eating My Contribution's**
 
