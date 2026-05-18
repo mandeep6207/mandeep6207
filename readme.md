@@ -11,11 +11,18 @@
 
 ---
 
-<div align="center">
+## 🌟 About Me
 
-### 🎯 **2 x Hackathon Winner • Data Science • AI/ML • Open Source Contributor**
+* 🎓 B.Tech in Computer Science & Engineering (Data Science) at Rungta College of Engineering & Technology, Bhilai
+* 🏆 Two-Time Hackathon Winner
+* 👨‍💻 Technical Lead at GDG On Campus
+* 🌍 State Lead at Open Source Community Group (OSCG) 2026
+* 🎓 Ex-Trainee at IIIT Naya Raipur
+* 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Analytics
+* 🚀 Building real-world solutions using Data Science, Generative AI, and Automation
+* 🌱 Currently exploring AI Agents, n8n, MLOps, and scalable AI systems
 
-**Tech Lead @GDG ON CAMPUS & IC at RCET** | **State Lead @OSCG 2026** | **Ex-Trainee @IIIT-NR**
+---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mandeepkumar.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandeep-kumar-56a891276)
@@ -27,7 +34,7 @@
 </div>
 
 ---
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandeep6207" alt="mandeep6207" /></a> </p>
 <div align="center">
 
 ## 🛠️ **Tech Arsenal** 
@@ -57,12 +64,6 @@
 <img src="https://streak-stats.demolab.com?user=mandeep6207&theme=github-dark-blue&hide_border=true&background=000000" width="100%"/>
 </td>
 
-
-
-
-
-
-
 ## 🐍 **Snake is Eating My Contribution's**
 
 ![Snake animation](https://raw.githubusercontent.com/mandeep6207/snk/output/github-snake-dark.svg)
@@ -74,27 +75,6 @@
 
 <div align="center">
 
-## 🎓 **Education & Certifications**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-B.Tech CSE (Data Science)  
-Rungta College of Engineering & Technology, Bhilai 
-
-Diploma in Computer Applications  
-Sinha Institute, Ranchi
-
-</td>
-<td width="50%">
-
-### 📜 Certifications
-Google Data Analytics Certificate (Ongoing)  
-Data Science Certifications  
-Generative AI Courses  
-SQL, Excel, Power BI Certifications  
 
 </td>
 </tr>
