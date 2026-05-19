@@ -98,7 +98,7 @@
 
 ## 📫 **Let's Connect**
 
-📍 India  
+📍 Ranchi, Jharkhand, India  
 📧 Email - **mk6207114453@gmail.com**  
 📞 Phone no - **+91 6207114453**
 
